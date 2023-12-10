@@ -4,7 +4,8 @@
 
 ## Overview
 
-This project is a Netflix clone (version 2.0) developed using [insert technologies/frameworks used]. It aims to replicate the user interface and basic functionality of the popular streaming platform, Netflix.
+This project is a Netflix clone (version 2.0) developed using HTML, CSS and Javascript. 
+It aims to replicate the user interface and basic functionality of the popular streaming platform, Netflix.
 
 ## Features
 
@@ -14,9 +15,9 @@ This project is a Netflix clone (version 2.0) developed using [insert technologi
 
 ## Technologies Used
 
-- **Frontend:** [List of frontend technologies]
-- **Backend:** [List of backend technologies]
-- **Database:** [Database technology]
+- **Frontend:** HTML, CSS and Javascript
+- **Backend:** N/A
+- **Database:** N/A
 
 ## Getting Started
 
