@@ -7,6 +7,8 @@
 This project is a Netflix clone (version 2.0) developed using HTML, CSS and Javascript. 
 It aims to replicate the user interface and basic functionality of the popular streaming platform, Netflix.
 
+In short, it consumes an API that lists movies and displays it in a web interface very similar to NetFlix.
+
 ## Features
 
 - **Responsive Design:** Ensures a seamless viewing experience across various devices.

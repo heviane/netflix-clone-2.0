@@ -4,7 +4,6 @@ const setupScrooling= () =>{
   const nextBtn = [...document.querySelectorAll(".next-btn")]
   const prevBtn = [...document.querySelectorAll(".pre-btn")]
 
-
   container.forEach((item, i)=>{
     let containerDimensions = item.getBoundingClientRect()
     let containerWidth = containerDimensions.width
